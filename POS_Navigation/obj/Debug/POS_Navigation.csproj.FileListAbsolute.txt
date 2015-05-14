@@ -1,0 +1,11 @@
+D:\GitRepository\POS_Rainier\POS_Navigation\bin\Debug\POS_Navigation.dll
+D:\GitRepository\POS_Rainier\POS_Navigation\bin\Debug\POS_Navigation.pdb
+D:\GitRepository\POS_Rainier\POS_Navigation\bin\Debug\POS_Infrastructure.dll
+D:\GitRepository\POS_Rainier\POS_Navigation\bin\Debug\POS_Infrastructure.pdb
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\POS_Navigation.csprojResolveAssemblyReference.cache
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\Views\NavigationItemView.baml
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\Views\NavigationItemView.g.cs
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\POS_Navigation_MarkupCompile.cache
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\POS_Navigation.g.resources
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\POS_Navigation.dll
+D:\GitRepository\POS_Rainier\POS_Navigation\obj\Debug\POS_Navigation.pdb

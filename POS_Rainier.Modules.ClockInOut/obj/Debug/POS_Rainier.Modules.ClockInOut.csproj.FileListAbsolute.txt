@@ -1,0 +1,11 @@
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\bin\Debug\POS_Rainier.Modules.ClockInOut.dll
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\bin\Debug\POS_Rainier.Modules.ClockInOut.pdb
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\bin\Debug\POS_Infrastructure.dll
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\bin\Debug\POS_Infrastructure.pdb
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\POS_Rainier.Modules.ClockInOut.csprojResolveAssemblyReference.cache
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\Views\ClockInOutView.baml
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\Views\ClockInOutView.g.cs
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\POS_Rainier.Modules.ClockInOut_MarkupCompile.cache
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\POS_Rainier.Modules.ClockInOut.g.resources
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\POS_Rainier.Modules.ClockInOut.dll
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.ClockInOut\obj\Debug\POS_Rainier.Modules.ClockInOut.pdb

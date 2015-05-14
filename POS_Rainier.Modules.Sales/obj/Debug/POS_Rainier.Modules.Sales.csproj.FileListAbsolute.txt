@@ -1,0 +1,11 @@
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\bin\Debug\POS_Rainier.Modules.Sales.dll
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\bin\Debug\POS_Rainier.Modules.Sales.pdb
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\bin\Debug\POS_Infrastructure.dll
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\bin\Debug\POS_Infrastructure.pdb
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\POS_Rainier.Modules.Sales.csprojResolveAssemblyReference.cache
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\Views\SalesView.baml
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\Views\SalesView.g.cs
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\POS_Rainier.Modules.Sales_MarkupCompile.cache
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\POS_Rainier.Modules.Sales.g.resources
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\POS_Rainier.Modules.Sales.dll
+D:\GitRepository\POS_Rainier\POS_Rainier.Modules.Sales\obj\Debug\POS_Rainier.Modules.Sales.pdb

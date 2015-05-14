@@ -1,0 +1,7 @@
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\bin\Debug\POS_Rainier_Test.dll
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\bin\Debug\POS_Rainier_Test.pdb
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\bin\Debug\nunit.framework.dll
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\bin\Debug\nunit.framework.xml
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\obj\Debug\POS_Rainier_Test.csprojResolveAssemblyReference.cache
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\obj\Debug\POS_Rainier_Test.dll
+D:\GitRepository\POS_Rainier\POS_Rainier_Test\obj\Debug\POS_Rainier_Test.pdb

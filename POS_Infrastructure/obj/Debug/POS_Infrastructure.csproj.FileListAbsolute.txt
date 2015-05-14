@@ -1,0 +1,5 @@
+D:\GitRepository\POS_Rainier\POS_Infrastructure\bin\Debug\POS_Infrastructure.dll
+D:\GitRepository\POS_Rainier\POS_Infrastructure\bin\Debug\POS_Infrastructure.pdb
+D:\GitRepository\POS_Rainier\POS_Infrastructure\obj\Debug\POS_Infrastructure.csprojResolveAssemblyReference.cache
+D:\GitRepository\POS_Rainier\POS_Infrastructure\obj\Debug\POS_Infrastructure.dll
+D:\GitRepository\POS_Rainier\POS_Infrastructure\obj\Debug\POS_Infrastructure.pdb

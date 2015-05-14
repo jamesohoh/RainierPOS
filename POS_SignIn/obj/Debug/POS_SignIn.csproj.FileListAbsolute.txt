@@ -1,0 +1,9 @@
+D:\GitRepository\POS_Rainier\POS_SignIn\bin\Debug\POS_SignIn.dll
+D:\GitRepository\POS_Rainier\POS_SignIn\bin\Debug\POS_SignIn.pdb
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\POS_SignIn.csprojResolveAssemblyReference.cache
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\Views\SignInView.baml
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\Views\SignInView.g.cs
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\POS_SignIn_MarkupCompile.cache
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\POS_SignIn.g.resources
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\POS_SignIn.dll
+D:\GitRepository\POS_Rainier\POS_SignIn\obj\Debug\POS_SignIn.pdb

@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Rainier", "POS_Rainier\POS_Rainier.csproj", "{572BA30F-3877-4C32-8D66-F3545F3C5994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Rainier_Test", "POS_Rainier_Test\POS_Rainier_Test.csproj", "{62B7A974-1835-401B-A17A-E89A04304D81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{9A39B4E7-EEEF-48E3-B825-EFC12E7E6E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Infrastructure", "POS_Infrastructure\POS_Infrastructure.csproj", "{8DB79A99-F10C-4AB1-9D90-B7D0D0FC7629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Rainier.Modules.Sales", "POS_Rainier.Modules.Sales\POS_Rainier.Modules.Sales.csproj", "{4C707D0E-3C86-4D15-A2DC-205BF13FABBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Rainier.Modules.ClockInOut", "POS_Rainier.Modules.ClockInOut\POS_Rainier.Modules.ClockInOut.csproj", "{76A7B925-3BD5-4415-8B89-9CD0EBF76078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_Navigation", "POS_Navigation\POS_Navigation.csproj", "{823A7670-287F-4F1E-ACBB-0637AA3342AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS_SignIn", "POS_SignIn\POS_SignIn.csproj", "{75AF76A6-A2E9-4F4D-BF6F-6DFAB7716C0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572BA30F-3877-4C32-8D66-F3545F3C5994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572BA30F-3877-4C32-8D66-F3545F3C5994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572BA30F-3877-4C32-8D66-F3545F3C5994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572BA30F-3877-4C32-8D66-F3545F3C5994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B7A974-1835-401B-A17A-E89A04304D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B7A974-1835-401B-A17A-E89A04304D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B7A974-1835-401B-A17A-E89A04304D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B7A974-1835-401B-A17A-E89A04304D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB79A99-F10C-4AB1-9D90-B7D0D0FC7629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB79A99-F10C-4AB1-9D90-B7D0D0FC7629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB79A99-F10C-4AB1-9D90-B7D0D0FC7629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB79A99-F10C-4AB1-9D90-B7D0D0FC7629}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C707D0E-3C86-4D15-A2DC-205BF13FABBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C707D0E-3C86-4D15-A2DC-205BF13FABBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C707D0E-3C86-4D15-A2DC-205BF13FABBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C707D0E-3C86-4D15-A2DC-205BF13FABBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A7B925-3BD5-4415-8B89-9CD0EBF76078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A7B925-3BD5-4415-8B89-9CD0EBF76078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A7B925-3BD5-4415-8B89-9CD0EBF76078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A7B925-3BD5-4415-8B89-9CD0EBF76078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823A7670-287F-4F1E-ACBB-0637AA3342AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823A7670-287F-4F1E-ACBB-0637AA3342AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823A7670-287F-4F1E-ACBB-0637AA3342AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823A7670-287F-4F1E-ACBB-0637AA3342AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75AF76A6-A2E9-4F4D-BF6F-6DFAB7716C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AF76A6-A2E9-4F4D-BF6F-6DFAB7716C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AF76A6-A2E9-4F4D-BF6F-6DFAB7716C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AF76A6-A2E9-4F4D-BF6F-6DFAB7716C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4C707D0E-3C86-4D15-A2DC-205BF13FABBD} = {9A39B4E7-EEEF-48E3-B825-EFC12E7E6E43}
+		{76A7B925-3BD5-4415-8B89-9CD0EBF76078} = {9A39B4E7-EEEF-48E3-B825-EFC12E7E6E43}
+	EndGlobalSection
+EndGlobal
